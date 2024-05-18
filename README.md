@@ -5,7 +5,7 @@
 
 Unofficial scripts for installing Pyrodactyl Panel & Wings. Works with the latest version of Pyrodactyl!
 
-Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
+Read more about [Pyrodactyl](https://pyro.host) here. This script is not associated with the official Pyrodactyl Project.
 
 ## Features
 
