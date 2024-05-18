@@ -17,7 +17,7 @@ Read more about [Pyrodactyl](https://pyro.host) here. This script is not associa
 
 ## Help and support
 
-For help and support regarding the script itself and **not the official Pterodactyl project**, you can join the [Discord Chat](https://phynix.rf.gd/web).
+For help and support regarding the script itself and **not the official Pyrodactyl project**, you can join the [Discord Chat](https://phynix.rf.gd/web).
 
 ## Supported installations
 
